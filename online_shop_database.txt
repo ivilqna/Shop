@@ -1,0 +1,27 @@
+_Senki
+	 
+	.Golemi palitri
+		*Makeup Trading 80 ,30.00,index.jpg
+	    *Gabriella Salvete,50.00,index1.jpg
+		*Makeup Trading All You Need To Go ,20.00,index2.jpg
+	.Malki palitra
+		*Pupa Whales,10.00,index3.jpg
+		*Makeup Revolution London,9.20,index5.jpg
+
+	
+
+_Parfumi
+
+	.Markovi Parfumi
+		*Douglas,1299.00,index7.jpg
+		*Skandal,80.00,index6.jpg
+		*D&G,100.00,index8.jpg
+
+
+_Aksesoari
+	
+	.Za grim
+		*Guba,5.00,index9.jpg
+		*Chetki,8.00,index10.jpg
+		
+	
